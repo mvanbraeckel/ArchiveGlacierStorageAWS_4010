@@ -1,0 +1,14 @@
+INVENTORY RETRIEVAL INITIATE JOBS
+
+--- Dec 1 --- 0 items
+
+Successfully Initiated inventory retrieval job for Glacier vault 'a4cis4010' - Retrieval Job ID: ItOGpSovrXjluDkplgi1h6ITumZqNnvLBoW_NQrAZ53b1Fa5YReV_Kv_9zuwCo2-XSds7Vjm9UeVxGODGIhau3MaIu3E.
+MY INVENTORY RETRIEVAL JOB:
+{'ResponseMetadata': {'RequestId': '8PIJoQFay4t5ILCpfeiZ7B80lvq7llPhTjJf5dFJuUlC_D0', 'HTTPStatusCode': 202, 'HTTPHeaders': {'x-amzn-requestid': '8PIJoQFay4t5ILCpfeiZ7B80lvq7llPhTjJf5dFJuUlC_D0', 'location': '/354464113200/vaults/a4cis4010/jobs/ItOGpSovrXjluDkplgi1h6ITumZqNnvLBoW_NQrAZ53b1Fa5YReV_Kv_9zuwCo2-XSds7Vjm9UeVxGODGIhau3MaIu3E', 'x-amz-job-id': 'ItOGpSovrXjluDkplgi1h6ITumZqNnvLBoW_NQrAZ53b1Fa5YReV_Kv_9zuwCo2-XSds7Vjm9UeVxGODGIhau3MaIu3E', 'content-type': 'application/json', 'content-length': '2', 'date': 'Wed, 02 Dec 2020 07:40:18 GMT'}, 'RetryAttempts': 0}, 'location': '/354464113200/vaults/a4cis4010/jobs/ItOGpSovrXjluDkplgi1h6ITumZqNnvLBoW_NQrAZ53b1Fa5YReV_Kv_9zuwCo2-XSds7Vjm9UeVxGODGIhau3MaIu3E', 'jobId': 'ItOGpSovrXjluDkplgi1h6ITumZqNnvLBoW_NQrAZ53b1Fa5YReV_Kv_9zuwCo2-XSds7Vjm9UeVxGODGIhau3MaIu3E'}
+
+--- Dec 2 --- ~7 items
+
+Successfully initiated inventory retrieval job for Glacier vault 'a4cis4010' - Inventory Retrieval Job ID: FmchQBRqlZUk2kSdkXJSRUhh6EliWwqZhnvsEmaoocZQuKQ3QXn_oZG_LBn7VsYXdY4kQZdoK8G63xV1VwCiC6-NumVW
+MY INVENTORY RETRIEVAL JOB: {'ResponseMetadata': {'RequestId': '1XDLRwIP4Fw750Qi05_I-gLBpCBLahlsc3dIKjC0J5weH1s', 'HTTPStatusCode': 202, 'HTTPHeaders': {'x-amzn-requestid': '1XDLRwIP4Fw750Qi05_I-gLBpCBLahlsc3dIKjC0J5weH1s', 'location': '/354464113200/vaults/a4cis4010/jobs/FmchQBRqlZUk2kSdkXJSRUhh6EliWwqZhnvsEmaoocZQuKQ3QXn_oZG_LBn7VsYXdY4kQZdoK8G63xV1VwCiC6-NumVW', 'x-amz-job-id': 'FmchQBRqlZUk2kSdkXJSRUhh6EliWwqZhnvsEmaoocZQuKQ3QXn_oZG_LBn7VsYXdY4kQZdoK8G63xV1VwCiC6-NumVW', 'content-type': 'application/json', 'content-length': '2', 'date': 'Wed, 02 Dec 2020 15:26:25 GMT'}, 'RetryAttempts': 0}, 'location': '/354464113200/vaults/a4cis4010/jobs/FmchQBRqlZUk2kSdkXJSRUhh6EliWwqZhnvsEmaoocZQuKQ3QXn_oZG_LBn7VsYXdY4kQZdoK8G63xV1VwCiC6-NumVW', 'jobId': 'FmchQBRqlZUk2kSdkXJSRUhh6EliWwqZhnvsEmaoocZQuKQ3QXn_oZG_LBn7VsYXdY4kQZdoK8G63xV1VwCiC6-NumVW'}
+
+---

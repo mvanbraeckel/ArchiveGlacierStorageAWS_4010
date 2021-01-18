@@ -1,0 +1,29 @@
+DOWNLOAD ARCHIVE RESULTS
+
+--- Dec 2 ---
+
+overkill.jpg
+Successfully retrieved archive job results for Glacier vault 'a4cis4010' - Job ID Input: Djy3OWsa_X6E8FJ7811xMRbYBnhyaOhYHtqg1iLSvsNmdShzXzEdQ-Ndiwe6kjl6w1HAwWCKMOJ2AdrdsjoBq_dX2-Jb
+Downloaded file: (raw) '20201202155504746274.bin' & '20201202155504746274.jpg'
+
+---
+
+Successfully retrieved archive job results for Glacier vault 'a4cis4010' - Job ID Input: 7K0Zwm3ch97XXYD1klyewhPVp5bFP0hNGfBqB24xiP4BN4Oipa44NE-bPpa7IeIUBhBcWFI1cLDpF28WHjP3ZJ3BzA5Z
+Downloaded file: (raw) '20201202155751950669.bin' & '20201202155751950669.jpg'
+
+---
+
+Successfully retrieved archive job results for Glacier vault 'a4cis4010' - Job ID Input: mzk28BXk2xd50VafeMOkf_7VdpuRo8-RarMCR5o35ddqKA9AF6PuORkht3XuIwFZOS53YXPxbfj9pvjzXsxrtpjtVtPa
+Downloaded file: (raw) '20201202155913584654.bin' & '20201202155913584654.jpg'
+
+---
+
+Successfully retrieved archive job results for Glacier vault 'a4cis4010' - Job ID Input: p6AZcNdXluYnPA0TtaKMhaD825UWxut0Qj5I2M_bb0fw1ZhJzt_bpghg0MgBl6_n5oZJbUXjgWz-gcJJCIK-kDsY4UOk
+Downloaded file: (raw) '20201202155957152365.bin' & '20201202155957152365.jpg'
+
+---
+
+Successfully retrieved archive job results for Glacier vault 'a4cis4010' - Job ID Input: JnttBZzqQHqmyzSnrxdN7j9xASlH-NwtqCtr_P91leskYSsXZKva9zAPZBtLBcLRdmpmbgUALT3KJ_12XapjZoC5XGLc
+Downloaded file: (raw) '20201202160021724366.bin' & '20201202160021724366.jpg'
+
+---

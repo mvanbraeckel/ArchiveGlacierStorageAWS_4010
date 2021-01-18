@@ -1,0 +1,39 @@
+ARCHIVE RETRIEVAL INIT JOBS (all standard tier)
+
+--- Dec 2 --- y
+
+overkill.jpg
+{
+    "location": "/354464113200/vaults/a4cis4010/jobs/Djy3OWsa_X6E8FJ7811xMRbYBnhyaOhYHtqg1iLSvsNmdShzXzEdQ-Ndiwe6kjl6w1HAwWCKMOJ2AdrdsjoBq_dX2-Jb",
+    "jobId": "Djy3OWsa_X6E8FJ7811xMRbYBnhyaOhYHtqg1iLSvsNmdShzXzEdQ-Ndiwe6kjl6w1HAwWCKMOJ2AdrdsjoBq_dX2-Jb"
+}
+
+--- y
+
+mySignature_2.png
+Successfully initiated archive retrieval job for Glacier vault 'a4cis4010' - Archive Retrieval Job ID: 7K0Zwm3ch97XXYD1klyewhPVp5bFP0hNGfBqB24xiP4BN4Oipa44NE-bPpa7IeIUBhBcWFI1cLDpF28WHjP3ZJ3BzA5Z
+MY ARCHIVE RETRIEVAL JOB: {'ResponseMetadata': {'RequestId': 'CQj4d70Xw4QMV_d73I5VGqZFqd9n-ti3gkBwBicQmt_lrSE', 'HTTPStatusCode': 202, 'HTTPHeaders': {'x-amzn-requestid': 'CQj4d70Xw4QMV_d73I5VGqZFqd9n-ti3gkBwBicQmt_lrSE', 'location': '/354464113200/vaults/a4cis4010/jobs/7K0Zwm3ch97XXYD1klyewhPVp5bFP0hNGfBqB24xiP4BN4Oipa44NE-bPpa7IeIUBhBcWFI1cLDpF28WHjP3ZJ3BzA5Z', 'x-amz-job-id': '7K0Zwm3ch97XXYD1klyewhPVp5bFP0hNGfBqB24xiP4BN4Oipa44NE-bPpa7IeIUBhBcWFI1cLDpF28WHjP3ZJ3BzA5Z', 'content-type': 'application/json', 'content-length': '2', 'date': 'Wed, 02 Dec 2020 15:43:31 GMT'}, 'RetryAttempts': 0}, 'location': '/354464113200/vaults/a4cis4010/jobs/7K0Zwm3ch97XXYD1klyewhPVp5bFP0hNGfBqB24xiP4BN4Oipa44NE-bPpa7IeIUBhBcWFI1cLDpF28WHjP3ZJ3BzA5Z', 'jobId': '7K0Zwm3ch97XXYD1klyewhPVp5bFP0hNGfBqB24xiP4BN4Oipa44NE-bPpa7IeIUBhBcWFI1cLDpF28WHjP3ZJ3BzA5Z'}
+
+--- y
+
+experimental-setup_physics-toy-rocket.jpg
+Successfully initiated archive retrieval job for Glacier vault 'a4cis4010' - Archive Retrieval Job ID: mzk28BXk2xd50VafeMOkf_7VdpuRo8-RarMCR5o35ddqKA9AF6PuORkht3XuIwFZOS53YXPxbfj9pvjzXsxrtpjtVtPa
+MY ARCHIVE RETRIEVAL JOB: {'ResponseMetadata': {'RequestId': 'y32y8AtM0uXIcw9oAxOGt8q9zNDLwpWeb3dpFBabv4mdpgM', 'HTTPStatusCode': 202, 'HTTPHeaders': {'x-amzn-requestid': 'y32y8AtM0uXIcw9oAxOGt8q9zNDLwpWeb3dpFBabv4mdpgM', 'location': '/354464113200/vaults/a4cis4010/jobs/mzk28BXk2xd50VafeMOkf_7VdpuRo8-RarMCR5o35ddqKA9AF6PuORkht3XuIwFZOS53YXPxbfj9pvjzXsxrtpjtVtPa', 'x-amz-job-id': 'mzk28BXk2xd50VafeMOkf_7VdpuRo8-RarMCR5o35ddqKA9AF6PuORkht3XuIwFZOS53YXPxbfj9pvjzXsxrtpjtVtPa', 'content-type': 'application/json', 'content-length': '2', 'date': 'Wed, 02 Dec 2020 15:44:45 GMT'}, 'RetryAttempts': 0}, 'location': '/354464113200/vaults/a4cis4010/jobs/mzk28BXk2xd50VafeMOkf_7VdpuRo8-RarMCR5o35ddqKA9AF6PuORkht3XuIwFZOS53YXPxbfj9pvjzXsxrtpjtVtPa', 'jobId': 'mzk28BXk2xd50VafeMOkf_7VdpuRo8-RarMCR5o35ddqKA9AF6PuORkht3XuIwFZOS53YXPxbfj9pvjzXsxrtpjtVtPa'}
+
+--- y
+
+nstemp.jpg
+{
+    "location": "/354464113200/vaults/a4cis4010/jobs/p6AZcNdXluYnPA0TtaKMhaD825UWxut0Qj5I2M_bb0fw1ZhJzt_bpghg0MgBl6_n5oZJbUXjgWz-gcJJCIK-kDsY4UOk",
+    "jobId": "p6AZcNdXluYnPA0TtaKMhaD825UWxut0Qj5I2M_bb0fw1ZhJzt_bpghg0MgBl6_n5oZJbUXjgWz-gcJJCIK-kDsY4UOk"
+}
+
+--- y
+
+PBS_Logo-1.png
+Successfully initiated archive retrieval job for Glacier vault 'a4cis4010' - Archive Retrieval Job ID: JnttBZzqQHqmyzSnrxdN7j9xASlH-NwtqCtr_P91leskYSsXZKva9zAPZBtLBcLRdmpmbgUALT3KJ_12XapjZoC5XGLc
+MY ARCHIVE RETRIEVAL JOB: {'ResponseMetadata': {'RequestId': 'Zfofx01xu6TNyw0zIXIlWZPCRK91bVd20Vegwn4qRWueLiU', 'HTTPStatusCode': 202, 'HTTPHeaders': {'x-amzn-requestid': 'Zfofx01xu6TNyw0zIXIlWZPCRK91bVd20Vegwn4qRWueLiU', 'location': '/354464113200/vaults/a4cis4010/jobs/JnttBZzqQHqmyzSnrxdN7j9xASlH-NwtqCtr_P91leskYSsXZKva9zAPZBtLBcLRdmpmbgUALT3KJ_12XapjZoC5XGLc', 'x-amz-job-id': 'JnttBZzqQHqmyzSnrxdN7j9xASlH-NwtqCtr_P91leskYSsXZKva9zAPZBtLBcLRdmpmbgUALT3KJ_12XapjZoC5XGLc', 'content-type': 'application/json', 'content-length': '2', 'date': 'Wed, 02 Dec 2020 15:46:56 GMT'}, 'RetryAttempts': 0}, 'location': '/354464113200/vaults/a4cis4010/jobs/JnttBZzqQHqmyzSnrxdN7j9xASlH-NwtqCtr_P91leskYSsXZKva9zAPZBtLBcLRdmpmbgUALT3KJ_12XapjZoC5XGLc', 'jobId': 'JnttBZzqQHqmyzSnrxdN7j9xASlH-NwtqCtr_P91leskYSsXZKva9zAPZBtLBcLRdmpmbgUALT3KJ_12XapjZoC5XGLc'}
+
+---
+
+

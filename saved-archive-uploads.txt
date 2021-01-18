@@ -1,0 +1,59 @@
+MY VAULT:
+{'VaultARN': 'arn:aws:glacier:us-east-1:354464113200:vaults/a4cis4010', 'VaultName': 'a4cis4010', 'CreationDate': '2020-11-27T07:45:01.294Z', 'NumberOfArchives': 0, 'SizeInBytes': 0}
+
+---
+
+missing 'mySignature_1.png'
+
+--- y
+
+File 'mySignature_2.png' successfully 'sDBWtO1DgsmH7xM_Tdyhhi6avKlailBjRgXP4a47cJivzxf9Kygsk_GXtyPpBy0r-xPKveZ7IyJYkJQOsKNfMpDEw4xo4iVRE9ssTO_W3C2islJLZ1jced1pjllTOl9kRX0QZaRh0g' uploaded and added to Glacier vault 'a4cis4010' as 
+an archive.
+
+--- y
+
+File 'experimental-setup_physics-toy-rocket.jpg' successfully 'NIfMYIsP-kSeIW3n2Q7X9iCwWzya2advckfsqeXFz5I1BxiNiZqq0ujr9QA9El4JELJOr5WgM4cXB6C6ALlTpyL6qfib_XJ-J-CE2erDosBnzWh_oy2PVHmaYfpraqbfatd4Cnv9bA' uploaded and added to Glacier vault 'a4cis4010' as an archive.
+MY ARCHIVE: {'ResponseMetadata': {'RequestId': 'fygsCCyZFRjOUMlIM4T_Lc_YlruIAjJGNn46RZ3e99Frj0Q', 'HTTPStatusCode': 201, 'HTTPHeaders': {'x-amzn-requestid': 'fygsCCyZFRjOUMlIM4T_Lc_YlruIAjJGNn46RZ3e99Frj0Q', 'x-amz-sha256-tree-hash': 'fe518705c9d3c921fe447acb5afe737bed473ea008dc5b685a2c3b02f9dc950b', 'location': '/354464113200/vaults/a4cis4010/archives/NIfMYIsP-kSeIW3n2Q7X9iCwWzya2advckfsqeXFz5I1BxiNiZqq0ujr9QA9El4JELJOr5WgM4cXB6C6ALlTpyL6qfib_XJ-J-CE2erDosBnzWh_oy2PVHmaYfpraqbfatd4Cnv9bA', 'x-amz-archive-id': 'NIfMYIsP-kSeIW3n2Q7X9iCwWzya2advckfsqeXFz5I1BxiNiZqq0ujr9QA9El4JELJOr5WgM4cXB6C6ALlTpyL6qfib_XJ-J-CE2erDosBnzWh_oy2PVHmaYfpraqbfatd4Cnv9bA', 'content-type': 'application/json', 'content-length': '2', 'date': 'Wed, 02 Dec 2020 06:20:26 GMT'}, 'RetryAttempts': 0}, 'location': '/354464113200/vaults/a4cis4010/archives/NIfMYIsP-kSeIW3n2Q7X9iCwWzya2advckfsqeXFz5I1BxiNiZqq0ujr9QA9El4JELJOr5WgM4cXB6C6ALlTpyL6qfib_XJ-J-CE2erDosBnzWh_oy2PVHmaYfpraqbfatd4Cnv9bA', 'checksum': 'fe518705c9d3c921fe447acb5afe737bed473ea008dc5b685a2c3b02f9dc950b', 'archiveId': 'NIfMYIsP-kSeIW3n2Q7X9iCwWzya2advckfsqeXFz5I1BxiNiZqq0ujr9QA9El4JELJOr5WgM4cXB6C6ALlTpyL6qfib_XJ-J-CE2erDosBnzWh_oy2PVHmaYfpraqbfatd4Cnv9bA'}
+
+--- y
+
+nstemp.jpg 
+{
+    "location": "/354464113200/vaults/a4cis4010/archives/83mcIlRsqzLernOGcoVf7725hDf9opfFHtNQA0RaIkHfdiKPMvSNq5kREgtgn6trTRfqHo4tMVQRxU-1HR2FrMjwcgiHdmEhD6vX-zonv4oFM290upr4wzCUVaaU_LKcGVEVw_xq_w",
+    "checksum": "8fc6f32c26d2e9d676651dfe5fd773d2e92efdedba7de0939318fd8335a1b7fc",
+    "archiveId": "83mcIlRsqzLernOGcoVf7725hDf9opfFHtNQA0RaIkHfdiKPMvSNq5kREgtgn6trTRfqHo4tMVQRxU-1HR2FrMjwcgiHdmEhD6vX-zonv4oFM290upr4wzCUVaaU_LKcGVEVw_xq_w"
+}
+
+--- y
+
+File 'overkill.jpg' successfully 'h8OIw_5GGHzQ4ZgHvAuk6DYbE7aSmE9QKrkyAYQ1U0S0wgijn3lHToUyL7aSAbHqnIqLpcRbPWWfYqmyCLvRTorxQrO0igLrLm292wrydyJkiJ1yKeai0gZoGvnvaAElw1I3CT5OAQ' uploaded and added to Glacier vault 'a4cis4010' as an archive.
+MY ARCHIVE: {'ResponseMetadata': {'RequestId': 't6gcBMI7gqJkCJI_D18GPuUsElXK4BUc70eChF4o8jfFp8A', 'HTTPStatusCode': 201, 'HTTPHeaders': {'x-amzn-requestid': 't6gcBMI7gqJkCJI_D18GPuUsElXK4BUc70eChF4o8jfFp8A', 'x-amz-sha256-tree-hash': '17918b2ef3b05730b56c439d8aa80da6b26b4fc107ce3a895902e00e2ba9f639', 'location': '/354464113200/vaults/a4cis4010/archives/h8OIw_5GGHzQ4ZgHvAuk6DYbE7aSmE9QKrkyAYQ1U0S0wgijn3lHToUyL7aSAbHqnIqLpcRbPWWfYqmyCLvRTorxQrO0igLrLm292wrydyJkiJ1yKeai0gZoGvnvaAElw1I3CT5OAQ', 'x-amz-archive-id': 'h8OIw_5GGHzQ4ZgHvAuk6DYbE7aSmE9QKrkyAYQ1U0S0wgijn3lHToUyL7aSAbHqnIqLpcRbPWWfYqmyCLvRTorxQrO0igLrLm292wrydyJkiJ1yKeai0gZoGvnvaAElw1I3CT5OAQ', 'content-type': 'application/json', 'content-length': '2', 'date': 'Wed, 02 Dec 2020 06:29:35 GMT'}, 'RetryAttempts': 0}, 'location': '/354464113200/vaults/a4cis4010/archives/h8OIw_5GGHzQ4ZgHvAuk6DYbE7aSmE9QKrkyAYQ1U0S0wgijn3lHToUyL7aSAbHqnIqLpcRbPWWfYqmyCLvRTorxQrO0igLrLm292wrydyJkiJ1yKeai0gZoGvnvaAElw1I3CT5OAQ', 'checksum': '17918b2ef3b05730b56c439d8aa80da6b26b4fc107ce3a895902e00e2ba9f639', 'archiveId': 'h8OIw_5GGHzQ4ZgHvAuk6DYbE7aSmE9QKrkyAYQ1U0S0wgijn3lHToUyL7aSAbHqnIqLpcRbPWWfYqmyCLvRTorxQrO0igLrLm292wrydyJkiJ1yKeai0gZoGvnvaAElw1I3CT5OAQ'}
+
+---
+
+File 'VBall.jpg' successfully 'DBB75ZB-7M7i_-GD7uZi9qwbF0fHl1jrQj8JiXBFDi4C5UI_oVWRa2HynJNwgQWaWwNdHTM6KqFoLeEEawYt7vmcIXTWxde2fZz373DLVNXtdj20Hb30KdQJoZOGRptIG5h0IeESrg' uploaded and added to Glacier vault 'a4cis4010' as an archive.
+MY ARCHIVE: {'ResponseMetadata': {'RequestId': '4cR6KvaHM-l9aYYPAbiTjyXfXfd3CGfXjQxj4jqvuDXD4ag', 'HTTPStatusCode': 201, 'HTTPHeaders': {'x-amzn-requestid': '4cR6KvaHM-l9aYYPAbiTjyXfXfd3CGfXjQxj4jqvuDXD4ag', 'x-amz-sha256-tree-hash': 'b63d396d2820f1499b408374a92ecc75e81b287cd5a2359b72844fb521da39cb', 'location': '/354464113200/vaults/a4cis4010/archives/DBB75ZB-7M7i_-GD7uZi9qwbF0fHl1jrQj8JiXBFDi4C5UI_oVWRa2HynJNwgQWaWwNdHTM6KqFoLeEEawYt7vmcIXTWxde2fZz373DLVNXtdj20Hb30KdQJoZOGRptIG5h0IeESrg', 'x-amz-archive-id': 'DBB75ZB-7M7i_-GD7uZi9qwbF0fHl1jrQj8JiXBFDi4C5UI_oVWRa2HynJNwgQWaWwNdHTM6KqFoLeEEawYt7vmcIXTWxde2fZz373DLVNXtdj20Hb30KdQJoZOGRptIG5h0IeESrg', 'content-type': 'application/json', 'content-length': '2', 'date': 'Wed, 02 Dec 2020 06:30:22 GMT'}, 'RetryAttempts': 0}, 'location': '/354464113200/vaults/a4cis4010/archives/DBB75ZB-7M7i_-GD7uZi9qwbF0fHl1jrQj8JiXBFDi4C5UI_oVWRa2HynJNwgQWaWwNdHTM6KqFoLeEEawYt7vmcIXTWxde2fZz373DLVNXtdj20Hb30KdQJoZOGRptIG5h0IeESrg', 'checksum': 'b63d396d2820f1499b408374a92ecc75e81b287cd5a2359b72844fb521da39cb', 'archiveId': 'DBB75ZB-7M7i_-GD7uZi9qwbF0fHl1jrQj8JiXBFDi4C5UI_oVWRa2HynJNwgQWaWwNdHTM6KqFoLeEEawYt7vmcIXTWxde2fZz373DLVNXtdj20Hb30KdQJoZOGRptIG5h0IeESrg'}
+
+--- y
+
+File 'PBS_Logo-1.png' successfully 'bjzEqy4Go3OIFRzmqFCJKz3e3RBw9mLOTobrzsnyh5CIXO_Fu2fYR_WQVGPJyndKZLNEFY9_ctCLEFnm2bo_P4AJ0NmzFqxQ9ty873crDCpBhNCXU1Pz5szUOWI58qrq4sF9A-nbdQ' uploaded and added to Glacier vault 'a4cis4010' as an 
+archive.
+MY ARCHIVE: {'ResponseMetadata': {'RequestId': 'tOzb_rXyv2Sec3CEZWwm2rajPc8hsAvsYkiFS_k_2qXQgao', 'HTTPStatusCode': 201, 'HTTPHeaders': {'x-amzn-requestid': 'tOzb_rXyv2Sec3CEZWwm2rajPc8hsAvsYkiFS_k_2qXQgao', 'x-amz-sha256-tree-hash': '4636d9e512769ca79088d5f403c3953aae0a535560eb7ab3a2d565b93dd759fe', 'location': '/354464113200/vaults/a4cis4010/archives/bjzEqy4Go3OIFRzmqFCJKz3e3RBw9mLOTobrzsnyh5CIXO_Fu2fYR_WQVGPJyndKZLNEFY9_ctCLEFnm2bo_P4AJ0NmzFqxQ9ty873crDCpBhNCXU1Pz5szUOWI58qrq4sF9A-nbdQ', 'x-amz-archive-id': 'bjzEqy4Go3OIFRzmqFCJKz3e3RBw9mLOTobrzsnyh5CIXO_Fu2fYR_WQVGPJyndKZLNEFY9_ctCLEFnm2bo_P4AJ0NmzFqxQ9ty873crDCpBhNCXU1Pz5szUOWI58qrq4sF9A-nbdQ', 'content-type': 'application/json', 'content-length': '2', 'date': 'Wed, 02 Dec 2020 06:30:36 GMT'}, 'RetryAttempts': 0}, 'location': '/354464113200/vaults/a4cis4010/archives/bjzEqy4Go3OIFRzmqFCJKz3e3RBw9mLOTobrzsnyh5CIXO_Fu2fYR_WQVGPJyndKZLNEFY9_ctCLEFnm2bo_P4AJ0NmzFqxQ9ty873crDCpBhNCXU1Pz5szUOWI58qrq4sF9A-nbdQ', 'checksum': '4636d9e512769ca79088d5f403c3953aae0a535560eb7ab3a2d565b93dd759fe', 'archiveId': 'bjzEqy4Go3OIFRzmqFCJKz3e3RBw9mLOTobrzsnyh5CIXO_Fu2fYR_WQVGPJyndKZLNEFY9_ctCLEFnm2bo_P4AJ0NmzFqxQ9ty873crDCpBhNCXU1Pz5szUOWI58qrq4sF9A-nbdQ'}
+
+---
+
+File 'eevee-evolution-wallpaper-art.jpg' successfully uploaded and added to Glacier vault 'a4cis4010' as an archive - Archive ID: 5gKHv8MCKMIedBAciGxfAoOWUrBCXVDHVnU55k7Pgzl819GPxRqo5fLCpzeyUKT2gvyyA1Vf8nKD1mGTj3PhUrGYcEx_Ky6aucG47BLKcYU3vEPbvTma25bVmWF8LA8WSbwbZqh6BQ.
+MY ARCHIVE: {'ResponseMetadata': {'RequestId': 'FHBkqJBudlh2b1jPwC9ROCRtEGbezOxqmIvNTab5yMEwegU', 'HTTPStatusCode': 201, 'HTTPHeaders': {'x-amzn-requestid': 'FHBkqJBudlh2b1jPwC9ROCRtEGbezOxqmIvNTab5yMEwegU', 'x-amz-sha256-tree-hash': 'f9390aece6a4705a800132ee071c2fb27e8df6d0ce2e97a71d7a401b6ef15275', 'location': '/354464113200/vaults/a4cis4010/archives/5gKHv8MCKMIedBAciGxfAoOWUrBCXVDHVnU55k7Pgzl819GPxRqo5fLCpzeyUKT2gvyyA1Vf8nKD1mGTj3PhUrGYcEx_Ky6aucG47BLKcYU3vEPbvTma25bVmWF8LA8WSbwbZqh6BQ', 'x-amz-archive-id': '5gKHv8MCKMIedBAciGxfAoOWUrBCXVDHVnU55k7Pgzl819GPxRqo5fLCpzeyUKT2gvyyA1Vf8nKD1mGTj3PhUrGYcEx_Ky6aucG47BLKcYU3vEPbvTma25bVmWF8LA8WSbwbZqh6BQ', 'content-type': 'application/json', 'content-length': '2', 'date': 'Wed, 02 Dec 2020 08:27:00 GMT'}, 'RetryAttempts': 0}, 'location': '/354464113200/vaults/a4cis4010/archives/5gKHv8MCKMIedBAciGxfAoOWUrBCXVDHVnU55k7Pgzl819GPxRqo5fLCpzeyUKT2gvyyA1Vf8nKD1mGTj3PhUrGYcEx_Ky6aucG47BLKcYU3vEPbvTma25bVmWF8LA8WSbwbZqh6BQ', 'checksum': 'f9390aece6a4705a800132ee071c2fb27e8df6d0ce2e97a71d7a401b6ef15275', 'archiveId': '5gKHv8MCKMIedBAciGxfAoOWUrBCXVDHVnU55k7Pgzl819GPxRqo5fLCpzeyUKT2gvyyA1Vf8nKD1mGTj3PhUrGYcEx_Ky6aucG47BLKcYU3vEPbvTma25bVmWF8LA8WSbwbZqh6BQ'}
+
+---
+
+UPLOAD DEMO
+DEMO: demon-slayer_squirtle.jpg
+DEMO: panda.jpg
+also 4 *_screenshots for more
+
+DOWNLOAD DEMO
+DEMO: VBall.jpg
+
+-- maybe not this (it was 8th item and idk if it was updated in the inventory yet)
+DEMO: eevee-evolution-wallpaper-art.jpg
